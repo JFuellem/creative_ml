@@ -390,41 +390,10 @@ Assignments will be updated on a weekly basis.
 
 Once the deadline has passed, you will loose write access to your repository and the last pushed version will be manually evaluated. This will also allow you to obtain a private link to the complete solution of the corresponding notebook. **Please do not share these solutions to anyone**
 
-## Administrative (ATIAM - IRCAM / Autumn 2025)
 
-These administrative details concerns only the current (autumn) physical session attached to the ATIAM Masters (IRCAM)
+## Administrative (University of Tokyo / Spring 2026)
 
-### Course details
-
-| Type | Information |
-|----------:|:-------------|
-| **Type**   | Masters (3-ECTS) school course  |
-| **Period** | September - December 2025 |
-| **Span**   | 7 classes of 200 minutes (sessions of 55 minutes) |
-| **Date**   | Variable slots (check calendar) |
-| **Onsite** | Room Stravinsky, IRCAM, -2 |
-| **Online** | N / A |
-
-
-### Full calendar
-
-| Date | Course |
-|----------:|:-------------|
-| October 8 | 00 - Introduction |
-| October 14 | 01 - Machine learning |
-| October 14 | 02 - Neural networks |
-| October 21 | 03 - Advanced networks |
-| November 05 | 04 - Deep learning |
-| November 12 | 05 - Bayesian inference |
-| November 18 | 06 - Latent models |
-| November 18 | 07 - Approximate inference |
-| November 26 | 08 - VAEs and flows |
-| November 26 | 09 - Adversarial networks |
-| November 28 | 10 - Diffusion models |
-
-## Administrative (University of Tokyo / Spring 2025)
-
-These administrative details concerns only the current (spring) physical session attached to the University of Tokyo (Spring 2025 session)
+These administrative details concerns only the current (spring) physical session attached to the University of Tokyo (Spring 2026 session)
 
 ### Course details
 
@@ -442,20 +411,51 @@ These administrative details concerns only the current (spring) physical session
 
 | Date | Course |
 |----------:|:-------------|
-| April 10 | 00 - Introduction |
-| April 17 | 01 - Machine learning |
-| April 24 | 02 - Neural networks |
-| May 1 | 03 - Advanced networks |
-| May 8 | **No course** |
-| May 15 | 04 - Deep learning |
-| May 22 | 05 - Bayesian inference |
-| May 29 | 06 - Latent models |
-| June 5 | _GX - Guest Lecture - Nao Tokui_ |
-| June 12 | **No course** |
-| June 19 | 07 - Approximate inference |
-| June 26 | 08 - VAEs and flows |
-| July 3 | 09 - Adversarial networks |
-| July 10 | 10 - Diffusion models |
+| April 9 | 00 - Introduction |
+| April 16 | 01 - Machine learning |
+| April 23 | 02 - Neural networks |
+| April 30 | 03 - Advanced networks |
+| May 7 | **No course** |
+| May 14 | 04 - Deep learning |
+| May 21 | 05 - Bayesian inference |
+| May 28 | 06 - Latent models |
+| June 4 | _GX - Guest Lecture_ |
+| June 11 | **No course** |
+| June 18 | 07 - Approximate inference |
+| June 25 | 08 - VAEs and flows |
+| July 2 | 09 - Adversarial networks |
+| July 9 | 10 - Diffusion models |
+
+## Administrative (ATIAM - IRCAM / Autumn 2025)
+
+These administrative details concerns only the current (autumn) physical session attached to the ATIAM Masters (IRCAM)
+
+### Course details
+
+| Type | Information |
+|----------:|:-------------|
+| **Type**   | Masters (3-ECTS) school course  |
+| **Period** | September - December 2025 |
+| **Span**   | 7 classes of 200 minutes (sessions of 55 minutes) |
+| **Date**   | Variable slots (check calendar) |
+| **Onsite** | Room Stravinsky, IRCAM, -2 |
+| **Online** | N / A |
+
+### Full calendar
+
+| Date | Course |
+|----------:|:-------------|
+| October 8 | 00 - Introduction |
+| October 14 | 01 - Machine learning |
+| October 14 | 02 - Neural networks |
+| October 21 | 03 - Advanced networks |
+| November 05 | 04 - Deep learning |
+| November 12 | 05 - Bayesian inference |
+| November 18 | 06 - Latent models |
+| November 18 | 07 - Approximate inference |
+| November 26 | 08 - VAEs and flows |
+| November 26 | 09 - Adversarial networks |
+| November 28 | 10 - Diffusion models |
 
 ## Past sessions
 
@@ -467,6 +467,7 @@ The course has ben provided for the past 3 years in two different sides of the w
 - [2024 - Autumn] : IRCAM, Paris
 - [2025 - Spring] : The University of Tokyo, Japan
 - [2025 - Autumn] : IRCAM, Paris
+- [2026 - Spring] : The University of Tokyo, Japan
 
 ## Contribution
 
