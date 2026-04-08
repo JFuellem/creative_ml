@@ -106,7 +106,7 @@ and tutorials that will be covered and how to setup the overall environment.
 
 **[GitHub assignment](https://classroom.github.com/a/5xo5PUNS)**
 
-**Deadline : 2025.10.21 @ 12:59 UTC+1**
+**Deadline : 2026.04.30 @ 14:54 JST**
 
 ---
 
@@ -123,7 +123,7 @@ and model properties and complexity that are still quintessential in modern mach
 
 **[GitHub assignment](https://classroom.github.com/a/coGIjEKS)**
 
-**Deadline : 2025.11.08 @ 12:59 UTC+1**
+**Deadline : 2026.05.14 @ 14:54 JST**
 
 ---
 
@@ -140,7 +140,7 @@ of multi-layer perceptrons. Finally, we discuss the complete implementation of b
 
 **[GitHub assignment](https://classroom.github.com/a/PMMERovu)**
 
-**Deadline : 2025.11.12 @ 12:59 UTC+1**
+**Deadline : 2026.05.21 @ 14:54 JST**
 
 ---
 
@@ -157,7 +157,7 @@ We further discuss issues of regularization and initialization in networks.
 
 **[GitHub assignment](https://classroom.github.com/a/0d0aJ2oA)**
 
-**Deadline : 2025.11.18 @ 12:59 UTC+1**
+**Deadline : 2026.05.28 @ 14:54 JST**
 
 ---
 
@@ -175,7 +175,7 @@ provide a set of modern applications.
 
 **[GitHub assignment](https://classroom.github.com/a/1neEu3ph)**
 
-**Deadline : 2025.11.26 @ 12:59 UTC+1**
+**Deadline : 2026.06.04 @ 14:54 JST**
 
 ---
 
@@ -192,7 +192,7 @@ Maximum A Posteriori (MAP) and Maximum Likelihood (ML) techniques.
 
 **[GitHub assignment](https://classroom.github.com/a/NU0aGVVh)**
 
-**Deadline : 2025.12.03 @ 12:59 UTC+1**
+**Deadline : 2026.06.18 @ 14:54 JST**
     
 ---
 
@@ -209,7 +209,7 @@ We provide the full derivation through Variational inference and discuss the imp
 
 **[GitHub assignment](https://classroom.github.com/a/MpIz_77i)**
 
-**Deadline : 2025.12.08 @ 12:59 UTC+1**
+**Deadline : 2026.06.25 @ 14:54 JST**
 
 ---
 
@@ -222,6 +222,8 @@ We provide the full derivation through Variational inference and discuss the imp
 
 We introduce here the notion of approximate inference, through historical applications of sampling with Monte-Carlo and Metropolis-Hastings.
 We further show how variational inference can provide an elegant solution to our estimation problems and discuss its implications.
+
+**No assignment**
 
 ---
 
@@ -243,7 +245,7 @@ used in generative contexts.
 
 **[GitHub assignment](https://classroom.github.com/a/nmi3dwyk)**
 
-**Deadline : 2025.12.12 @ 12:59 UTC+1**
+**Deadline : 2026.07.09 @ 14:54 JST**
 
 ---
 
@@ -260,7 +262,7 @@ models to this day. We discuss flaws and limitations of GANs and introduce their
 
 **[GitHub assignment](https://classroom.github.com/a/4rgEXfMT)**
 
-**Deadline : 2025.12.17 @ 12:59 UTC+1**
+**Deadline : 2026.07.16 @ 14:54 JST**
 
 ---
 
@@ -277,7 +279,7 @@ We will also discuss the more recent development of denoising diffusion implicit
 
 **[GitHub assignment](https://classroom.github.com/a/MW3EL9gl)**
 
-**Deadline : 2025.12.22 @ 12:59 UTC+1**
+**Deadline : 2026.07.23 @ 14:54 JST**
 
 ---
 
