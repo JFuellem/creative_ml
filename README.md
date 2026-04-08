@@ -104,7 +104,7 @@ This course provides a brief history of the development of artificial intelligen
 through a series of recent applications in the creative fields. This course also presents the pre-requisites, course specificities, toolboxes
 and tutorials that will be covered and how to setup the overall environment.
 
-**[GitHub assignment](https://classroom.github.com/a/5xo5PUNS)**
+**[GitHub assignment](https://classroom.github.com/a/bjKIC-ne)**
 
 **Deadline : 2026.04.30 @ 14:54 JST**
 
